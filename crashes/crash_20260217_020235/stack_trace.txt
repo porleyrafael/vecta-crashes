@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\Downloads\Feem\Desktop\VECTA\VECTA pruebas\VECTA_MIGRACION_2026_02_17_FIXED\vecta_zip62_v4.5.1\core\self_test.py", line 116, in report_failure_to_github
+    raise RuntimeError(
+RuntimeError: VECTA_SELFTEST_FAILED: pytest exit_code=1
