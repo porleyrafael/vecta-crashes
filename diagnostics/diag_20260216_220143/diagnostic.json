@@ -1,0 +1,17 @@
+{
+  "kind": "structural_diagnostic",
+  "timestamp": "20260216_220143",
+  "reason": "manual_structural_diagnostic",
+  "daemon_state": {
+    "ts": "2026-02-16T22:01:00",
+    "pid": 3104,
+    "iteration": 5,
+    "phase": "sleep"
+  },
+  "daemon_quarantine": null,
+  "builder_last_apply": null,
+  "builder_last_rollback": null,
+  "notes": {
+    "source": "cli"
+  }
+}
