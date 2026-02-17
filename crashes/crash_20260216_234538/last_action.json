@@ -1,7 +1,0 @@
-{
-  "daemon": true,
-  "component": "vecta_github_daemon",
-  "phase": "detect_fix_quarantine",
-  "fix": "fix_prep_state_sha_20260216_221810",
-  "quarantine_until": "2026-02-16T23:56:57.427235"
-}
