@@ -1,0 +1,10 @@
+{
+  "total_capabilities": 4,
+  "capabilities": [
+    "cap_auto_repair_v1.vlang",
+    "cap_net_connectivity_diagnose_v1.vlang",
+    "cap_optimize_pc_v1.vlang",
+    "cap_read_last_report_v1.vlang"
+  ],
+  "total_learned": 1
+}
