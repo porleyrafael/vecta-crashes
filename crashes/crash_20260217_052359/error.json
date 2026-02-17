@@ -1,0 +1,18 @@
+{
+  "timestamp": "20260217_052359",
+  "exception_type": "RuntimeError",
+  "exception_message": "VECTA_SELFTEST_FAILED: pytest exit_code=1",
+  "user_input": null,
+  "context": {
+    "type": "self_test_failure",
+    "pytest_exit_code": 1,
+    "pytest_stdout": "",
+    "pytest_stderr": "C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python311\\python.exe: No module named pytest\n"
+  },
+  "system_info": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "python_version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "architecture": "AMD64",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD"
+  }
+}
