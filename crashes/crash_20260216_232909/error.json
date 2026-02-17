@@ -1,0 +1,18 @@
+{
+  "timestamp": "20260216_232909",
+  "exception_type": "Exception",
+  "exception_message": "Fix detected during quarantine",
+  "user_input": null,
+  "context": {
+    "component": "vecta_github_daemon",
+    "phase": "detect_fix_quarantine",
+    "fix": "fix_prep_state_sha_20260216_221810",
+    "quarantine_until": "2026-02-16T23:56:57.427235"
+  },
+  "system_info": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "python_version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "architecture": "AMD64",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD"
+  }
+}
